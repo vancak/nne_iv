@@ -1,4 +1,4 @@
-# nne_iv
+# Simulations code for NNT, NNE & EIN point and interval estimation
 Estimation of the Number Needed to Treat, the Number Needed to Expose, and the Exposure Impact Number with Instrumental Variables
 
 Simulations and data analysis code for the paper Estimation of the Number Needed to Treat, the Number Needed to Expose, and the Exposure Impact Number with Instrumental Variables by Valentin Vancak & Arvid Sjölander. 
