@@ -1,4 +1,4 @@
-# Simulations code for NNT, NNE & EIN point and interval estimation
+# Simulations code for NNT, NNE & EIN estimation
 
 Simulations and data analysis code for the paper Estimation of the Number Needed to Treat, the Number Needed to Expose, and the Exposure Impact Number with Instrumental Variables by Valentin Vancak & Arvid Sjölander. 
 The repository consists of three folders: logit model simulation - code for the simulation of the double logistic model. Probit model simulation - code for the simulation of the double probit model. Vitamin D - code for the Vitamin D data example.
