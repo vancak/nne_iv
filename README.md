@@ -7,4 +7,4 @@ The Vitamin D file contains two files with (1) double logit model analysis and (
 
 
 ## References 
-Valentin Vancak & Arvid Sjölander, Estimation of the Number Needed to Treat, the Number Needed to Expose, and the Exposure Impact Number with Instrumental Variables, 2024
+Vancak, Valentin and Sjölander, Arvid. "Estimation of the number needed to treat, the number needed to be exposed, and the exposure impact number with instrumental variables" [Epidemiologic Methods](https://doi.org/10.1515/em-2023-0034), vol. 13, no. 1, 2024, pp. 20230034.
